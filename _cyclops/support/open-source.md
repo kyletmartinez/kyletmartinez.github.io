@@ -14,8 +14,8 @@ This software uses code of [FFmpeg](https://ffmpeg.org/) licensed under the [GPL
 
 | Component | Version | License | Source |
 |---|---|---|---|
-| FFmpeg | `n8.1.1` ("Hoare", released 2026-05-04) | [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) | [ffmpeg-8.1.1.tar.xz](https://github.com/kyletmartinez/cyclops.github.io/releases/download/ffmpeg-8.1.1/ffmpeg-8.1.1.tar.xz) |
-| x264 | `stable` at commit [`b35605ac`](https://code.videolan.org/videolan/x264/-/commit/b35605ace3ddf7c1a5d67a2eb553f034aef41d55) | [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) | [x264-b35605ac.tar.gz](https://github.com/kyletmartinez/cyclops.github.io/releases/download/ffmpeg-8.1.1/x264-b35605ace3ddf7c1a5d67a2eb553f034aef41d55.tar.gz) |
+| FFmpeg | `n8.1.1` ("Hoare", released 2026-05-04) | [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) | [ffmpeg-8.1.1.tar.xz](https://github.com/kyletmartinez/kyletmartinez.github.io/releases/download/ffmpeg-8.1.1/ffmpeg-8.1.1.tar.xz) |
+| x264 | `stable` at commit [`b35605ac`](https://code.videolan.org/videolan/x264/-/commit/b35605ace3ddf7c1a5d67a2eb553f034aef41d55) | [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) | [x264-b35605ac.tar.gz](https://github.com/kyletmartinez/kyletmartinez.github.io/releases/download/ffmpeg-8.1.1/x264-b35605ace3ddf7c1a5d67a2eb553f034aef41d55.tar.gz) |
 
 The binaries shipped inside Cyclops are compiled from the exact source tarballs linked above. SHA-256 checksums:
 
@@ -24,7 +24,7 @@ The binaries shipped inside Cyclops are compiled from the exact source tarballs 
 
 ## Modifications
 
-No modifications were made to the upstream source code. The tarballs published above are the unmodified upstream releases. A [changes.diff](https://github.com/kyletmartinez/cyclops.github.io/releases/download/ffmpeg-8.1.1/changes.diff) is published alongside them per the FFmpeg project's compliance request — the diff is empty because no modifications were made.
+No modifications were made to the upstream source code. The tarballs published above are the unmodified upstream releases. A [changes.diff](https://github.com/kyletmartinez/kyletmartinez.github.io/releases/download/ffmpeg-8.1.1/changes.diff) is published alongside them per the FFmpeg project's compliance request — the diff is empty because no modifications were made.
 
 ## Compilation
 
