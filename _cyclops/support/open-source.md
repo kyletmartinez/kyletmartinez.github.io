@@ -48,7 +48,16 @@ Both the macOS and Windows binaries are compiled with the following minimal FFmp
   --disable-ffplay \
   --disable-ffprobe \
   --disable-network \
-  --disable-debug
+  --disable-debug \
+  --disable-devices \
+  --disable-avdevice \
+  --disable-hwaccels \
+  --disable-xlib \
+  --disable-libxcb \
+  --disable-libxcb-shm \
+  --disable-libxcb-xfixes \
+  --disable-libxcb-shape \
+  --pkg-config-flags=--static
 ```
 
 ## Usage
